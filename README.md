@@ -52,6 +52,6 @@ La pantalla táctil ha revolucionado la informática eliminando las barreras de 
 Este proyecto está bajo la licencia **MIT**. Eres libre de usarlo y modificarlo siempre que menciones la autoría.
 
 ### Autores
-* **Nombre:** [Tu Nombre Aquí]
+  * **Nombre:** Álvaro García Alcázar
 * **Curso:** Fundamentos de Hardware (FHW)
 * **Repositorio:** `FHW-PantallaTactil`
