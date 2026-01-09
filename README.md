@@ -54,4 +54,3 @@ Este proyecto está bajo la licencia **MIT**. Eres libre de usarlo y modificarlo
 ### Autores
   * **Nombre:** Álvaro García Alcázar
 * **Curso:** Fundamentos de Hardware (FHW)
-* **Repositorio:** `FHW-PantallaTactil`
